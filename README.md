@@ -17,9 +17,9 @@ _A store of free blogs._
   Define terms and link to docs.github.com.
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
+
 ## Brief Intruction
 Hello! I am mintcat o(*￣▽￣*)ブ !
-
 
 
 <footer>
